@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: organization | Hack+Taiwan]]></title>
+  <link href="http://imrehg.github.com/hacktaiwan/blog/categories/organization/atom.xml" rel="self"/>
+  <link href="http://imrehg.github.com/hacktaiwan/"/>
+  <updated>2012-04-11T15:53:21+08:00</updated>
+  <id>http://imrehg.github.com/hacktaiwan/</id>
+  <author>
+    <name><![CDATA[Gergely Imreh]]></name>
+    <email><![CDATA[imrehg@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hatching]]></title>
+    <link href="http://imrehg.github.com/hacktaiwan/blog/2012/04/11/hatching/"/>
+    <updated>2012-04-11T15:11:00+08:00</updated>
+    <id>http://imrehg.github.com/hacktaiwan/blog/2012/04/11/hatching</id>
+    <content type="html"><![CDATA[<p>Everything starts somewhere, though not everything has this little time to prepare for that dramatic event of "coming into this world". Next week - or rather in a few days, from this Suday - it is the <a href="http://www.creativityday.org/About.html">World Creativity and Innovation Week</a>, between April 15 - 21. Looked like a fun thing to do, and my friend suggested that we could do something for <a href="http://playtivity.wordpress.com/2012/04/06/world-creativity-and-innovation-week-april-15-21-%E4%B8%96%E7%95%8C%E5%89%B5%E6%84%8F%E5%89%B5%E6%96%B0%E9%80%B1/">Taiwan</a> as well, despite the short notice.</p>
+
+<p>Sure, I like a challenge, so came up with two events, one of them being this one, Hack+Taiwan - a Taiwan-themed hackathon.</p>
+
+<p><img class="Logo" src="/myimg/Logo2_small.png" width="400" height="400" title="Hack+Taiwan logo" ></p>
+
+<p>The idea behind this event is that while I feel Taiwan is very advanced in terms of computing, mobile phone, TV, internet connections, general computer literacy, the services provided on the net are lagging behind quite a lot. From the US and other places we have many interesting and useful services, people often create lots of small projects as well that are immensely useful, in the meantime in Taiwan most companies are running websites with very old and inconvenient technologies, data providers hardly heard of APIs, and things often more complicated to do than they should be.</p>
+
+<p>We can change that, we can tie things together to enable people to do more, and make this island an even more fun place to be. There are plenty of good developers, plenty of opportunities to improve, just people need that little push. Let's show the world that Ilha Formosa is not just beautiful but very clever as well!</p>
+
+<p>It's a very short notice event (I know I have said that already), so not sure how it will work out, but will give it my most and should be a fun time.</p>
+
+<p>Will post here a sign-up sheet and more information shortly. For additional info, you can see the <a href="https://www.facebook.com/events/382147041825676/">Facebook event page</a> as well.</p>
+
+<p>^Greg</p>
+]]></content>
+  </entry>
+  
+</feed>
