@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Hatching"
+date: 2012-04-11 15:11
+comments: true
+categories: organization
+---
+Everything starts somewhere, though not everything has this little time to prepare for that dramatic event of "coming into this world". Next week - or rather in a few days, from this Suday - it is the [World Creativity and Innovation Week](http://www.creativityday.org/About.html), between April 15 - 21. Looked like a fun thing to do, and my friend suggested that we could do something for [Taiwan](http://playtivity.wordpress.com/2012/04/06/world-creativity-and-innovation-week-april-15-21-%E4%B8%96%E7%95%8C%E5%89%B5%E6%84%8F%E5%89%B5%E6%96%B0%E9%80%B1/) as well, despite the short notice.
+
+Sure, I like a challenge, so came up with two events, one of them being this one, Hack+Taiwan - a Taiwan-themed hackathon.
+
+{% img Logo /myimg/Logo2_small.png 400 400 Hack+Taiwan logo %}
+
+The idea behind this event is that while I feel Taiwan is very advanced in terms of computing, mobile phone, TV, internet connections, general computer literacy, the services provided on the net are lagging behind quite a lot. From the US and other places we have many interesting and useful services, people often create lots of small projects as well that are immensely useful, in the meantime in Taiwan most companies are running websites with very old and inconvenient technologies, data providers hardly heard of APIs, and things often more complicated to do than they should be.
+
+We can change that, we can tie things together to enable people to do more, and make this island an even more fun place to be. There are plenty of good developers, plenty of opportunities to improve, just people need that little push. Let's show the world that Ilha Formosa is not just beautiful but very clever as well!
+
+It's a very short notice event (I know I have said that already), so not sure how it will work out, but will give it my most and should be a fun time.
+
+Will post here a sign-up sheet and more information shortly. For additional info, you can see the [Facebook event page](https://www.facebook.com/events/382147041825676/) as well.
+
+^Greg
