@@ -6,11 +6,13 @@ comments: true
 categories: organization
 ---
 
-Wanted to draw up a provisional schedule, so that we can have some feedback about the plans. Since it is a single day event, the time is limited. There should be enough time to create something new and cool, though, even with those limitations. That probably means early start (and loads of coffee), but not too late finish. People will be exhausted pretty quickly with that much brainwork, will probably make an interesting Saturday night afterwards
+Wanted to draw up a provisional schedule, so that we can have some feedback about the plans. Since it is a single day event, the time is limited. There should be enough time to create something new and cool, though, even with those limitations. That probably means early start (and loads of coffee), but not too late finish. People will be exhausted pretty quickly with that much brainwork, will probably make an interesting Saturday night afterwards.
 
 # Overall scedule for Hack+Taiwan on April 21
 
-* 9:00 - Doors open,
+Location: AppWorks, 台北市信義區基隆路一段180號5F ([click for map](http://maps.google.com/maps/place?cid=1815435503043542231))
+
+* 9:00 - Doors open
 * 9:30 - Kick off, intro
 * 10:00 - Team formation, ready to rock
 * 17:00 - Presentations of the day's results, votig, winners
@@ -24,7 +26,7 @@ Starting early (for [Startup Weekend Taipei](http://taipei.startupweekend.org) w
 
 ## Intro, team formation
 
-I'm still figuring out the exact format of the day. Likely will take the *all bets are off* shape: whatever's your language, whatever you want to hack on, team up with a couple of other people (maybe 2-3 people teams, that should be small enough but inspiring), and get on with it.
+I'm still figuring out the exact format of the day. Likely will take the *all bets are off* shape: whatever's your language, whatever you want to hack on, team up with a couple of other people (maybe 2-3 people teams, that should be small enough but inspiring, but people can work on their own too), and get on with it.
 
 ## During the day
 
