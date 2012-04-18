@@ -15,7 +15,7 @@ Location: AppWorks, 台北市信義區基隆路一段180號5F ([click for map](h
 * 9:00 - Doors open
 * 9:30 - Kick off, intro
 * 10:00 - Team formation, ready to rock
-* 17:00 - Presentations of the day's results, votig, winners
+* 17:00 - Presentations of the day's results, voting, winners
 * 18:00 - Closing down, some networking, mingling time
 
 {% img /myimg/waiting_for.jpg 500 500 %}
