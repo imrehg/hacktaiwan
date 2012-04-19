@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Your turn"
+date: 2012-04-19 10:30
+comments: true
+categories: organization
+---
+Everything is on track for our first [Hack+Taiwan event](https://www.facebook.com/events/382147041825676/), this post is to give some more info for it.
+
+## Information
+
+The overal schedule is outlined in our [previous post](http://localhost:4000/blog/2012/04/13/planning-the-day/), basically we **start at 9:00 in the morning, and go till 18:00 in the afternoon**.
+
+There's an **entrance fee** of 300NT, that will cover all the **food and drinks** for the day.
+
+**Location**: [appWorks](http://appworks.tw/) ([Map](http://maps.google.com/maps/place?cid=1815435503043542231)). 台北市信義區基隆路一段180號5F / Keelung Rd., Sec. 1, No. 180, 5F.
+
+**Best way to get there**: Taipei City Hall Station, Exit #1, turn right, cross the street and turn right again, till you see the sign for the event. If you **got lost**, call me on 0932192631.
+
+{% img cover /myimg/appworks_location.jpg 521 464 Map %}
+
+## Ideas
+
+For the next two days, **you should start to think about project ideas** that you would like to create at Hack+Taiwan. What interests you? What things could be done better? What new things you could create in a day? (You will be suprirsed how much can be done in a short time:) Dream big, it does worth it!
+
+Also, check out the tools, languages, software that you will plan to use, **refresh your knowledge** and get to know them better. *And can leave a comment here about what's your favorite techology*.
+
+Otherwise, **see you on Saturday**.
+
+^Greg
+
